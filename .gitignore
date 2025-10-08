@@ -1,2 +1,4 @@
 .
 conflict_file.txt
+backup/
+*.log
